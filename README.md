@@ -1,9 +1,10 @@
-# MicroserviceRestAPI & Docker
-Microservice Rest API & Docker
+# MicroserviceRestAPI, Docker & Swagger
+Microservice Rest API, Docker, Swagger
 
 Port : 8080
 Docker Version : 4.19
 DB : Mysql
+openjdk:20
 Name DB : API
 User DB : root
 Password DB : root
